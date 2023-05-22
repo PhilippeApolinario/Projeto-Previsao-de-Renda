@@ -6,10 +6,6 @@ O objetivo é melhor dimensionar o limite de cartões de crédito dos novos clie
 * Realizar análise descritiva e estatística para compreender, organizar, detectar padrões em relação ao perfil de renda dos clientes  
 * Realizar a modelagem através de árvore de regressão para prever a renda dos novos clientes  
 
-## Link para Aplicação:
-
-https://user-images.githubusercontent.com/100958973/233431734-c1922691-482b-46eb-8cba-4dc9187a2d6f.mov
-
 ## Utilização
 
 ### Dependencias
@@ -34,8 +30,9 @@ https://user-images.githubusercontent.com/100958973/233174981-3240343c-9deb-462f
 
  1 - Baixe o Projeto    
  2 - Descompacte o arquivo    
- 3 - Clique no link do webapp    
- 4 - No webapp, vá em Browse files e busque no diretório do projeto pelo arquivo "previsao_de_renda.csv". 
+ 3 - Abra o terminal no diretório onde está os arquivos do projeto
+ 4 - Use o comando ```streamlit run app_clustering.py```
+ 5 - No webapp, busque no diretório do projeto o arquivo CC GENERALC.csv
 
 ## Autores
 
