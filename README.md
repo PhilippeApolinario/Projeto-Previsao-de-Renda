@@ -26,7 +26,7 @@ O produto final consiste em um modelo treinado utilizando o DecisionTreeRegresso
 A implementação desta solução proporciona uma abordagem mais precisa na determinação de limites de cartões de crédito, melhorando a experiência do cliente e fortalecendo a gestão de riscos da instituição financeira. A combinação de análise descritiva e modelagem com DecisionTreeRegressor oferece uma visão aprofundada do perfil de renda dos clientes, permitindo uma tomada de decisão mais informada e eficaz.
 
 ## Link da Aplicação
-https://credit-card-cluster-philippe-apolinario.streamlit.app/](https://projeto-previsao-de-renda-philippe-apolinario.streamlit.app/)
+https://projeto-previsao-de-renda-philippe-apolinario.streamlit.app/
 
 https://github.com/PhilippeApolinario/Projeto-Previsao-de-Renda/assets/100958973/1ca8d859-2e92-4be2-b095-1bb81e053f89
 
