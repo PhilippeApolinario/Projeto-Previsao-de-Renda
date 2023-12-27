@@ -1,4 +1,4 @@
-# Previsão de Renda por meio de Árvore de Regressão
+# Análise Exploratória, Previsão De Renda Por Meio de Árvore de Regressão e Criação De Um Webapp Através do Streamlit
 
 ### 1. Entendimento do Problema
 Uma instituição financeira enfrenta o desafio de aprimorar a avaliação do perfil de renda de seus novos clientes, visando otimizar a definição dos limites de cartões de crédito. A necessidade de uma abordagem mais precisa na determinação dos limites é imporntate para proporcionar uma experiência personalizada aos clientes, ao mesmo tempo em que fortalece a gestão de riscos da instituição.
@@ -19,12 +19,16 @@ Na fase de análise descritiva, foram explorados os dados disponíveis para comp
 * Em relação a posse de imóvel já não ocorre tanta alteração.
 * A árvore de regressão destacou as variáveis mais relevantes na estimativa de renda dos clientes, oferecendo insights sobre fatores como histórico de crédito, histórico de transações e idade.
 
-
 ### 5. Produto Final
 O produto final consiste em um modelo treinado utilizando o DecisionTreeRegressor, capaz de prever a renda dos clientes com base em diferentes variáveis explicativas. Além disso, o projeto oferece uma análise descritiva dos dados e insights sobre o perfil de renda dos clientes disponibilizados através de um webapp.
 
 ### 6. Conclusão
 A implementação desta solução proporciona uma abordagem mais precisa na determinação de limites de cartões de crédito, melhorando a experiência do cliente e fortalecendo a gestão de riscos da instituição financeira. A combinação de análise descritiva e modelagem com DecisionTreeRegressor oferece uma visão aprofundada do perfil de renda dos clientes, permitindo uma tomada de decisão mais informada e eficaz.
+
+## Link da Aplicação
+https://credit-card-cluster-philippe-apolinario.streamlit.app/](https://projeto-previsao-de-renda-philippe-apolinario.streamlit.app/)
+
+https://github.com/PhilippeApolinario/Projeto-Previsao-de-Renda/assets/100958973/1ca8d859-2e92-4be2-b095-1bb81e053f89
 
 ## Utilização
 
